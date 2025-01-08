@@ -2,12 +2,12 @@
 
 # Tiket Kereta Api SETSAT
 
-|             |                        |     |
-| ----------- | ---------------------- | --- |
-| Nama        | Muhammad Rizqi Maulana |
-| NIM         | 312210360              |
-| Kelas       | TI.22.A.4              |
-| Mata Kuliah | Pemrograman Visual     |
+|             |                    |     |
+| ----------- | ------------------ | --- |
+| Nama        | Dipca Anugrah      |
+| NIM         | 312210666          |
+| Kelas       | TI.22.A.4          |
+| Mata Kuliah | Pemrograman Visual |
 
 Projek ini merupakan aplikasi **Tiket Kereta Api** yang dikembangkan menggunakan **Java NetBeans** dan database **MySQL**. Aplikasi ini dirancang untuk mengelola proses pemesanan tiket kereta api, mulai dari login, input data tiket, pembayaran, hingga mencetak tiket dan mengelola data admin serta penumpang.
 
